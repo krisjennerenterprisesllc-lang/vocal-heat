@@ -1,3 +1,6 @@
 
 # Broken git metadata backup
 .git.broken/
+
+# macOS
+.DS_Store
